@@ -12,3 +12,9 @@ python3 ./convert.py ./file_name.srt -> It converts into txt
 file_name.txt -> Convert to srt -> file_name.srt 
 
 file_name.srt -> Convert to txt -> file_name.txt
+
+# Examples
+## TXT
+![WhisperAI txt](/images/txt_example.png)
+## SRT
+![WhisperAI srt](/images/srt_example.png)
