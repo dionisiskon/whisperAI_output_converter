@@ -1,4 +1,4 @@
-# whisperAI_output_converter
+# whisperAI output converter
 Converts the text format into the subtitle format, and the opposite.
 
 A simple program to convert WhisperAI terminal or txt output to srt. I used it, because the srt format didn't come out that great with the command. Also, in some executions I forgot to include the output format and had to work with a terminal output, so I used the converter to convert instead of running it again. It is bothersome to run again, especially if the running of WhisperAI took hours previously.
